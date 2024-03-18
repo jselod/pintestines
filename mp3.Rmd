@@ -11,6 +11,8 @@ library(tidyverse)
 ```
 
 # Introduction:
+This project investigated both material and structural properties of two non-Hookean materials: wood and biological tissue. Material properties such as stiffness and anisotropicity were examined using weight loading and unloading, while structural properties like viscoelasticity were analyzed through three-point bending tests. The wooden material used was a birch coffee stirrer, made viscoelastic by allowing it to absorb water. The biological tissue sampled was obtained from pig intestines. Both materials are anisotropic, meaning they have directionally dependent properties due to fiber arrangements. For example, wood grain is unidirectional and thus gives the material anisotropy, in that its “axial cellular elements” tend to be oriented similarly (@Bremaud2011). Similarly, intestinal muscle is arranged both longitudinally and circumferentially (physiological connection between biology and function: pushing a bolus through the digestive tract). 
+
 
 # Methods:
 
